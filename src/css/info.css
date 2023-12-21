@@ -1,0 +1,83 @@
+/*
+
+function App() {
+App
+	contenedorPrincipal
+		h1
+		INFORMACION
+}
+
+
+
+INFORMACION:
+contenedorInformacion
+	imagenFamilia
+	contenedorTexto
+		nombreFamilia
+		relacionFamilia
+		descripcionFamilia
+
+*/
+.contenedorInformacion {
+    width: 1170px;
+    max-width: 100%; 
+    height: 368px;
+    margin: 10px 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 79%);
+}
+
+.imagenFamilia {
+    height: 100%;
+    width: 28%; 
+}
+
+.contenedorTexto {
+    text-align: center; 
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    font-size: 1.09em;
+}
+
+.relacionFamilia { 
+    margin-top: 15px;
+    padding-bottom: 30px;
+    color: rgb(215, 0, 0);
+}
+ 
+
+@media only screen and (max-width: 1180px) {
+    .contenedorInformacion {
+        width: 900px;
+        height: 300px;
+    }    
+}
+@media only screen and (max-width: 925px) {
+    .contenedorInformacion {
+        width: 700px;
+        height: 240px;
+    }    
+}
+@media only screen and (max-width: 925px) {
+    .contenedorInformacion {
+        width: 450px;
+        height: 200px;
+    }    
+}
+@media only screen and (max-width: 590px) {
+    .contenedorInformacion {
+        width: 350px;
+        height: 190px;
+    }    
+    .imagenFamilia {
+        height: 100%;
+        width: 100px; 
+    }
+}
+
+

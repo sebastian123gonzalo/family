@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sebastian123gonzalo.github.io/static/css/main.42be4853.css",
+    "main.js": "/sebastian123gonzalo.github.io/static/js/main.9c7af550.js",
+    "static/js/787.0f8d78ff.chunk.js": "/sebastian123gonzalo.github.io/static/js/787.0f8d78ff.chunk.js",
+    "static/media/img3.jpg": "/sebastian123gonzalo.github.io/static/media/img3.16286867987e15c7b566.jpg",
+    "static/media/mar.jpg": "/sebastian123gonzalo.github.io/static/media/mar.f2b032112e874aa1d91f.jpg",
+    "static/media/madre.jpg": "/sebastian123gonzalo.github.io/static/media/madre.e12d7fc2a09c22052936.jpg",
+    "static/media/yo.jpg": "/sebastian123gonzalo.github.io/static/media/yo.54c5a5b25903eb463922.jpg",
+    "static/media/padre.jpg": "/sebastian123gonzalo.github.io/static/media/padre.50829e5ef57a1a9904e1.jpg",
+    "static/media/logo.svg": "/sebastian123gonzalo.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sebastian123gonzalo.github.io/index.html",
+    "main.42be4853.css.map": "/sebastian123gonzalo.github.io/static/css/main.42be4853.css.map",
+    "main.9c7af550.js.map": "/sebastian123gonzalo.github.io/static/js/main.9c7af550.js.map",
+    "787.0f8d78ff.chunk.js.map": "/sebastian123gonzalo.github.io/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42be4853.css",
+    "static/js/main.9c7af550.js"
+  ]
+}
